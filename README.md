@@ -4,7 +4,7 @@ What are the ethical, technical, and legal challenges associated with developing
 I asked this question to ChatGPT and here is the answers that it provided to my questions.
 
 
-By Diego Murillo | CPCS-354 Literature Review
+By Diego Murillo | CPSC-354 Literature Review
 
 ---
 
